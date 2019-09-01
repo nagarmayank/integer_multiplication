@@ -1,0 +1,2 @@
+1st number, A: 12
+2nd number, B:120
