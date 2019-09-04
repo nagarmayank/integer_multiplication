@@ -1,19 +1,280 @@
 --------------------------------
+First Number is: 1111111111
+Second Number is: 9999999999
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 1111111111  A1 : 11111 A2 : 11111
+B : 9999999999  B1 : 99999 B2 : 99999
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11111  A1 : 11 A2 : 111
+B : 99999  B1 : 99 B2 : 999
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11  A1 : 1 A2 : 1
+B : 99  B1 : 9 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 02  A1 : 0 A2 : 2
+B : 18  B1 : 1 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 111  A1 : 1 A2 : 11
+B : 999  B1 : 9 B2 : 99
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11  A1 : 1 A2 : 1
+B : 99  B1 : 9 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 02  A1 : 0 A2 : 2
+B : 18  B1 : 1 B2 : 8
 --------------------------------
 Intermediate Values of A1, B1 after partition:
 --------------------------------
 A : 012  A1 : 0 A2 : 12
-B : 120  B1 : 1 B2 : 20
+B : 108  B1 : 1 B2 : 08
 --------------------------------
 Intermediate Values of A1, B1 after partition:
 --------------------------------
 A : 12  A1 : 1 A2 : 2
-B : 20  B1 : 2 B2 : 0
+B : 08  B1 : 0 B2 : 8
 --------------------------------
 Intermediate Values of A1, B1 after partition:
 --------------------------------
 A : 12  A1 : 1 A2 : 2
-B : 21  B1 : 2 B2 : 1
-Result: > 12  x 120  = 1440
+B : 09  B1 : 0 B2 : 9
 --------------------------------
- x*y  directly 1440
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 0122  A1 : 01 A2 : 22
+B : 1098  B1 : 10 B2 : 98
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 01  A1 : 0 A2 : 1
+B : 10  B1 : 1 B2 : 0
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 98  B1 : 9 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 04  A1 : 0 A2 : 4
+B : 17  B1 : 1 B2 : 7
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 023  A1 : 0 A2 : 23
+B : 108  B1 : 1 B2 : 08
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 23  A1 : 2 A2 : 3
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 23  A1 : 2 A2 : 3
+B : 09  B1 : 0 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11111  A1 : 11 A2 : 111
+B : 99999  B1 : 99 B2 : 999
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11  A1 : 1 A2 : 1
+B : 99  B1 : 9 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 02  A1 : 0 A2 : 2
+B : 18  B1 : 1 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 111  A1 : 1 A2 : 11
+B : 999  B1 : 9 B2 : 99
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 11  A1 : 1 A2 : 1
+B : 99  B1 : 9 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 02  A1 : 0 A2 : 2
+B : 18  B1 : 1 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 012  A1 : 0 A2 : 12
+B : 108  B1 : 1 B2 : 08
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 12  A1 : 1 A2 : 2
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 12  A1 : 1 A2 : 2
+B : 09  B1 : 0 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 0122  A1 : 01 A2 : 22
+B : 1098  B1 : 10 B2 : 98
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 01  A1 : 0 A2 : 1
+B : 10  B1 : 1 B2 : 0
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 98  B1 : 9 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 04  A1 : 0 A2 : 4
+B : 17  B1 : 1 B2 : 7
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 023  A1 : 0 A2 : 23
+B : 108  B1 : 1 B2 : 08
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 23  A1 : 2 A2 : 3
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 23  A1 : 2 A2 : 3
+B : 09  B1 : 0 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 022222  A1 : 022 A2 : 222
+B : 199998  B1 : 199 B2 : 998
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 022  A1 : 0 A2 : 22
+B : 199  B1 : 1 B2 : 99
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 99  B1 : 9 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 04  A1 : 0 A2 : 4
+B : 18  B1 : 1 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 022  A1 : 0 A2 : 22
+B : 100  B1 : 1 B2 : 00
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 00  B1 : 0 B2 : 0
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 01  B1 : 0 B2 : 1
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 222  A1 : 2 A2 : 22
+B : 998  B1 : 9 B2 : 98
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 22  A1 : 2 A2 : 2
+B : 98  B1 : 9 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 04  A1 : 0 A2 : 4
+B : 17  B1 : 1 B2 : 7
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 024  A1 : 0 A2 : 24
+B : 107  B1 : 1 B2 : 07
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 24  A1 : 2 A2 : 4
+B : 07  B1 : 0 B2 : 7
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 24  A1 : 2 A2 : 4
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 0244  A1 : 02 A2 : 44
+B : 1197  B1 : 11 B2 : 97
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 02  A1 : 0 A2 : 2
+B : 11  B1 : 1 B2 : 1
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 44  A1 : 4 A2 : 4
+B : 97  B1 : 9 B2 : 7
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 08  A1 : 0 A2 : 8
+B : 16  B1 : 1 B2 : 6
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 046  A1 : 0 A2 : 46
+B : 108  B1 : 1 B2 : 08
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 46  A1 : 4 A2 : 6
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 10  A1 : 1 A2 : 0
+B : 08  B1 : 0 B2 : 8
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 46  A1 : 4 A2 : 6
+B : 09  B1 : 0 B2 : 9
+--------------------------------
+Intermediate Values of A1, B1 after partition:
+--------------------------------
+A : 10  A1 : 1 A2 : 0
+B : 09  B1 : 0 B2 : 9
+Result: > 1111111111  x 9999999999  = 11111111108888888889
+--------------------------------
